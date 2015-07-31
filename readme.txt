@@ -1,4 +1,12 @@
-momo is a open sourse project!
-momo is parper
-haliluya
-issue-10 is bug wait issue
+曾今想办一份报纸
+名字都起好了
+就叫momo 
+不是摸摸
+
+后来，不想
+当了程序汪
+
+想写一个关于好点的网站
+于是 就起名叫
+momo
+
