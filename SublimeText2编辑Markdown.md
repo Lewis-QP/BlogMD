@@ -30,7 +30,7 @@ else None;open(os.path.join(ipp,pf),'wb')
 2. 输入mp 后回车(Markdown Preview: current file in browser)
 3. 此时就可以在浏览器里看到刚才编辑的文档了
 
-还有个工具，Mac平台上的编辑MarkDown工具：Mou
+还有个工具，Mac平台上的编辑MarkDown工具：<a href="http://25.io/mou/">Mou</a>
 
 差的把最重要的事忘了，这个文章是我在百度上找到的，顺便用MarkDown写了下。不知道原作者的名字
 还请见谅。^_^
