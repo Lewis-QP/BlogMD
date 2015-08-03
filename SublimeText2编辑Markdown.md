@@ -13,7 +13,8 @@ ipp=sublime.installed_packages_path();
 os.makedirs(ipp)
 if not os.path.exists(ipp) 
 else None;open(os.path.join(ipp,pf),'wb')
-.write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())
+.write(urllib2.urlopen
+('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())
 </code></pre>
 
 ##三、安装Markdown Preview
@@ -32,6 +33,6 @@ else None;open(os.path.join(ipp,pf),'wb')
 
 还有个工具，Mac平台上的编辑MarkDown工具：<a href="http://25.io/mou/">Mou</a>
 
-差的把最重要的事忘了，这个文章是我在百度上找到的，顺便用MarkDown写了下。不知道原作者的名字
+差点把最重要的事忘了，这个文章是我在百度上找到的，顺便用MarkDown写了下。不知道原作者的名字
 还请见谅。^_^
 
